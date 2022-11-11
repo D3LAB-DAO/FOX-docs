@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[176],{8879:e=>{e.exports=JSON.parse('{"title":"Introduction","slug":"/category/introduction","permalink":"/category/introduction","navigation":{"previous":{"title":"FOX Finance","permalink":"/"},"next":{"title":"Trilemma","permalink":"/Introduction/Trilemma"}}}')}}]);
